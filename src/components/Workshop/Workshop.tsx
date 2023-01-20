@@ -62,8 +62,8 @@ const Workshop = () => {
               <Box
                 key={index}
                 flex="none"
-                h={{ base: "397px", md: "520px" }}
-                w={{ base: "295px", md: "450px" }}
+                h={{ base: "397px", md: "500px" }}
+                w={{ base: "295px", md: "400px" }}
                 borderRadius="5px"
                 zIndex={"10"}
                 mt="3rem"
