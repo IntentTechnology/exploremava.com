@@ -85,11 +85,10 @@ const AboutUsPage = () => {
             mt={10}
             color={useColorModeValue("gray.600", "gray.400")}
           >
-            Mava gives to our customers the opportunity to make their
-            international money transfers at really cheap rates and at
-            lightening speed. Sendhood is a rate comparison platform that allows
-            our customers find the best rates for their exchange as well as
-            choose the best providers on our platform.
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
+            quo, et sint harum vero culpa. Fugiat officia quia magni omnis iste
+            tempore odio architecto, facere minima, id, optio ipsa
+            reprehenderit.
           </Text>
         </VStack>
       </Box>
